@@ -1,0 +1,10 @@
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\AnimalDB.dll.config
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\AnimalDB.dll
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\AnimalDB.pdb
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\MySql.Data.DLL
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\obj\Release\AnimalDB.csprojResolveAssemblyReference.cache
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\obj\Release\AnimalDB.csproj.CoreCompileInputs.cache
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\obj\Release\AnimalDB.dll
+C:\Users\Rokas\Desktop\ASPSQL\AnimalDB\obj\Release\AnimalDB.pdb
